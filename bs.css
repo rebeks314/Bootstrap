@@ -1,0 +1,11 @@
+.navbar navbar-default{
+/*    margin: 0 auto;*/
+}
+
+.nav navbar-nav{
+    /*margin: 0 auto;*/
+}
+
+.dropdown{
+    float: left;
+}
