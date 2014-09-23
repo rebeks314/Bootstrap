@@ -1,11 +1,34 @@
-.navbar navbar-default{
-/*    margin: 0 auto;*/
+.navbar navbar-default ul li{
+
 }
 
-.nav navbar-nav{
-    /*margin: 0 auto;*/
+.nav navbar-nav ul li{
+    /*float: right;*/
 }
 
 .dropdown{
     float: left;
+}
+
+.collapse navbar-collapse ul li{
+    /*float: right;*/
+}
+
+/* fixar bredden på menuitems */
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 25px;
+}
+
+h1{
+  
+}
+
+#ruta{
+    
+}
+
+#bild{
+    
 }
