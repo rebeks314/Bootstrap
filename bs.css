@@ -48,3 +48,9 @@ h1{
 #div_omsluta{
 /*       float: right;*/
    }
+   
+   .form-control{
+       float: right;
+       width: 200px;
+      margin-top: 10px;
+   }
